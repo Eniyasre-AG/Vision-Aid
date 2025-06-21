@@ -73,12 +73,8 @@ This project leverages the low-cost **ESP32-CAM** module to capture images and s
 
 ---
 
-## 📸 Demo
 
-> *(Insert photo or link to working demo video)*  
-> Example: [YouTube Demo](https://youtu.be/example-link)
 
----
 
 ## 📜 License
 
